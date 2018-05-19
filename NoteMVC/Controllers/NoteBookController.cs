@@ -11,16 +11,17 @@ namespace NoteMVC.Controllers
 {
     public class NoteBookController : Controller
     {
-        // GET: NoteBook
+        
         private readonly NoteBookLogic noteBookLogic;
 
         public NoteBookController(NoteBookLogic noteBookLogic)
         {
             this.noteBookLogic = noteBookLogic;
         }
-
+        
         public ActionResult ListNote()
         {
+            // full list of notes
             var notes = noteBookLogic.GetAll();
             return View(notes);
         }
@@ -33,18 +34,20 @@ namespace NoteMVC.Controllers
 
         [HttpPost]
         public ActionResult Create([Bind(Include = "FirstName, LastName, YearOfBirth, PhoneNumber")] Note note)
-        {
-            if (ModelState.IsValid)
+        {//getting parameters from the post query
+            if (ModelState.IsValid)// check, if the note is valid
             {
-                noteBookLogic.Add(note);
-                return RedirectToAction("ListNote");
+                noteBookLogic.Add(note); // add note to the db 
+                return RedirectToAction("ListNote"); // go to the page "ListNote" 
             }
+            // back to form, if not correct
             return View();
         }
 
         [HttpPost]
         public ActionResult Delete([Bind(Include = "Id")] Note student)
         {
+            // getting id from post query
             noteBookLogic.Remove((int)student.Id);
             return RedirectToAction("ListNote");
         }
@@ -73,6 +76,7 @@ namespace NoteMVC.Controllers
         [HttpPost]
         public ActionResult Edit([Bind(Include = "Id ,FirstName, LastName, YearOfBirth, PhoneNumber")]Note nt)
         {
+            // edit the note
             if (ModelState.IsValid)
             {
                 noteBookLogic.Edit(nt);
@@ -115,7 +119,7 @@ namespace NoteMVC.Controllers
 
         [HttpPost]
         public ActionResult SearchByLastName(string LastName)
-        {
+        {// get parameter and search note with such lastname
             if (ModelState.IsValid)
             {
                 var tmp = noteBookLogic.SearchByLastName(LastName);
@@ -133,7 +137,7 @@ namespace NoteMVC.Controllers
 
         [HttpPost]
         public ActionResult SearchByName(string Name)
-        {
+        {// get parameter and search note with such name
             if (ModelState.IsValid)
             {
                 var tmp = noteBookLogic.SearchByName(Name);
@@ -150,7 +154,7 @@ namespace NoteMVC.Controllers
 
         [HttpPost]
         public ActionResult SearchByNumber(string Number)
-        {
+        {// get parameter and search note with such number
             if (ModelState.IsValid)
             {
                 var tmp = noteBookLogic.SearchByPhoneNum(Number);
