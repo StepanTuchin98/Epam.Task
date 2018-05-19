@@ -1,0 +1,9 @@
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\INoteBookBLL\bin\Debug\INoteBookBLL.dll
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\INoteBookBLL\bin\Debug\INoteBookBLL.pdb
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\INoteBookBLL\bin\Debug\Entites.dll
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\INoteBookBLL\bin\Debug\Entites.pdb
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\INoteBookBLL\obj\Debug\INoteBook.BLL.csprojResolveAssemblyReference.cache
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\INoteBookBLL\obj\Debug\INoteBook.BLL.csproj.CoreCompileInputs.cache
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\INoteBookBLL\obj\Debug\INoteBook.BLL.csproj.CopyComplete
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\INoteBookBLL\obj\Debug\INoteBookBLL.dll
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\INoteBookBLL\obj\Debug\INoteBookBLL.pdb

@@ -1,0 +1,11 @@
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.ListCollection\bin\Debug\DAL.ListCollection.dll
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.ListCollection\bin\Debug\DAL.ListCollection.pdb
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.ListCollection\bin\Debug\Entites.dll
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.ListCollection\bin\Debug\INoteBookDAL.dll
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.ListCollection\bin\Debug\Entites.pdb
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.ListCollection\bin\Debug\INoteBookDAL.pdb
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.ListCollection\obj\Debug\NoteBook.DAL.List.csprojResolveAssemblyReference.cache
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.ListCollection\obj\Debug\NoteBook.DAL.List.csproj.CoreCompileInputs.cache
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.ListCollection\obj\Debug\NoteBook.DAL.List.csproj.CopyComplete
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.ListCollection\obj\Debug\DAL.ListCollection.dll
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.ListCollection\obj\Debug\DAL.ListCollection.pdb

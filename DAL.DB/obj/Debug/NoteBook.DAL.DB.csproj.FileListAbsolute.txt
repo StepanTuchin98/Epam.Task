@@ -1,0 +1,11 @@
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.DB\bin\Debug\DAL.DB.dll
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.DB\bin\Debug\DAL.DB.pdb
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.DB\bin\Debug\Entites.dll
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.DB\bin\Debug\INoteBookDAL.dll
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.DB\bin\Debug\Entites.pdb
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.DB\bin\Debug\INoteBookDAL.pdb
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.DB\obj\Debug\NoteBook.DAL.DB.csprojResolveAssemblyReference.cache
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.DB\obj\Debug\NoteBook.DAL.DB.csproj.CoreCompileInputs.cache
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.DB\obj\Debug\NoteBook.DAL.DB.csproj.CopyComplete
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.DB\obj\Debug\DAL.DB.dll
+C:\Users\1\Source\Repos\StudentPractiсe.TuchinStepan.Epam\DAL.DB\obj\Debug\DAL.DB.pdb
